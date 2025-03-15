@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func conditions() {
 	x := 20
 	y := 18
 	if x > y {
